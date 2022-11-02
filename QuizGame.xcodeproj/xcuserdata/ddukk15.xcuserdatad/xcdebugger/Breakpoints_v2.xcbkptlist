@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C63BB1A2-6169-4CAD-B39F-D78BA41B7043"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7179971F-78E3-4EC2-BBFC-ECA5BC0C6605"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "QuizGame/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7179971F-78E3-4EC2-BBFC-ECA5BC0C6605 - 593ed2d94d2d70ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuizGame.ViewController.Question.getter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "QuizGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ddukk15/Downloads/QuizGame/QuizGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "7179971F-78E3-4EC2-BBFC-ECA5BC0C6605 - 4f1bca22346b2cf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuizGame.ViewController.Question.setter : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "QuizGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ddukk15/Downloads/QuizGame/QuizGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "7179971F-78E3-4EC2-BBFC-ECA5BC0C6605 - a36ffe1ec25917c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuizGame.ViewController.Question.modify : Swift.Optional&lt;__C.UITextView&gt;"
+                  moduleName = "QuizGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ddukk15/Downloads/QuizGame/QuizGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7179971F-78E3-4EC2-BBFC-ECA5BC0C6605 - 11af8273afb0894a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuizGame.ViewController.Question.modify : Swift.Optional&lt;__C.UITextView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "QuizGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ddukk15/Downloads/QuizGame/QuizGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "7179971F-78E3-4EC2-BBFC-ECA5BC0C6605 - 69454d81caf01975"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuizGame.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; QuizGame.ViewController"
+                  moduleName = "QuizGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ddukk15/Downloads/QuizGame/QuizGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "7179971F-78E3-4EC2-BBFC-ECA5BC0C6605 - 7eb903dac805f3af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "QuizGame.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;QuizGame.ViewController&gt;"
+                  moduleName = "QuizGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ddukk15/Downloads/QuizGame/QuizGame/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "190">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
